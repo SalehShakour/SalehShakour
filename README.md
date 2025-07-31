@@ -4,9 +4,8 @@
 🧠 **Interested in machine learning and data science**  
 📚 **Involved in NLP research projects**  
 🔍 **Curious about language models and prompt engineering**  
-💻 **Hands-on experience in software development  **
+💻 **Hands-on experience in software development**
 
----
 
 
 <p align="left">
@@ -28,9 +27,8 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </p>
 
----
 
-### 📬 Let's Connect
+📬 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saleh.shakour.edu@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
