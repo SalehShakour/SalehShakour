@@ -1,7 +1,5 @@
-## 👋 Hi, I'm Saleh  
+### 👋 Hi, I'm Saleh 
 
-
----
 
 **🎓 Computer Science Graduate**  
 **🧠 Interested in machine learning and data science**  
@@ -9,7 +7,9 @@
 **🔍 Curious about language models and prompt engineering**  
 **💻 Hands-on experience in software development**
 
----
+<br>
+
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -30,8 +30,4 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </p>
 
----
-
-📬 Let's Connect  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:saleh.shakour.edu@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/your-profile) 
 
