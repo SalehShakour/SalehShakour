@@ -2,12 +2,8 @@
 
 🎓 Computer Science graduate  
 🧠 Interested in machine learning and NLP  
-📊 Learning to work with data thoughtfully  
 🔍 Involved in NLP research projects  
-📚 Curious about language models and prompt engineering  
-🔎 Exploring retrieval, classification, and text understanding  
 💻 Hands-on experience in software development  
-🧱 Trying to understand scalable system design
 
 
 ---
