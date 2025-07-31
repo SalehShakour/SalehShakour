@@ -1,7 +1,7 @@
 ## Hi, I'm Saleh 👋
 
 🎓 Computer Science graduate  
-🧠 Interested in machine learning and data science
+🧠 Interested in machine learning and data science  
 🔍 Involved in NLP research projects  
 💻 Hands-on experience in software development  
 
